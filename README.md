@@ -51,7 +51,7 @@ Se sugiere realizan la siguinte instalación del paquete de optimización qpsolv
 
 Si encuentra útil este trabajo en su investigación, puede citarlo como:
 
-Henao Baena, C. A. (2024). LA MÁQUINA DE SOPORTE VECTORIAL COMO PROBLEMA DE PROGRAMACIÓN CUADRÁTICA CONVEXA: ANÁLISIS Y UN TUTORIAL. *ResearchGate*. Preprint. https://doi.org/10.13140/RG.2.2.18182.79686
+C. Henao. “La máquina de soporte vectorial como problema de programación cuadrática: análisis y un tutorial”, Revista Politécnica, vol.21, no.42pp.99-121, 2025. DOI:10.33571/rpolitec.v21n42a7
 
 # Referencias
 
